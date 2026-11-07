@@ -2,6 +2,7 @@
   "name": "sleep-question-30",
   "compatibility_date": "2026-11-08",
   "workers_dev": true,
+  "account_id": "6469aef029e5542572bd77977b55d966",
   "assets": { "directory": "./dist" },
   "preview_urls": false
 }
