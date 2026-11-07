@@ -3,3 +3,5 @@
 label{display:block;margin-top:20px;font-weight:600}input,select,textarea,button{font:inherit}input:not([type=checkbox]),select,textarea{display:block;width:100%;max-width:100%;padding:12px;border:1px solid #809d9d;border-radius:8px;background:white;color:#213b44;min-height:48px}button{cursor:pointer;color:#176b74;background:white}input:focus-visible,select:focus-visible,textarea:focus-visible,button:focus-visible{outline:3px solid #bb691e;outline-offset:3px}
 
 #resultText{white-space:pre-wrap;font-size:22px}@media print{main>section{display:none!important}#finish{display:block!important}#finish>*{display:none!important}#finish>#resultCard{display:block!important;border:0}}
+
+.globalStatus:empty{display:none}.globalStatus{margin:16px auto;padding:16px;max-width:1100px;background:#fff0d9;border-radius:8px}@media print{.globalStatus{display:none}}
